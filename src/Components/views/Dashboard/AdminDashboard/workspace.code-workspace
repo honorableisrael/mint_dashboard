@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Toptutors"
+		},
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../Quick Shelter/Main/frontend"
+		},
+		{
+			"path": "../../../../../../Molecular"
+		}
+	],
+	"settings": {
+		"json.maxItemsComputed": 50000,
+		"liveServer.settings.multiRootWorkspaceName": "cnadmin"
+	}
+}

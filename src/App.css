@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+
+
+body {
+  font-family: "Poppins";
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@media (max-width: 460px) {
+  .whatsapp {
+    width: 40px;
+    position: fixed;
+    bottom: 2rem;
+    left: 1rem;
+    z-index: 100;
+  }
+  .fcshopimage {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  .rtail1 {
+    margin-left: 0px !important;
+  }
+}
+@media (min-width: 461px) {
+  .mm1 {
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+  }
+  .fcshop {
+    width: 100% !important;
+  }
+  .maxwidth1 {
+    padding-left: 0rem;
+  }
+  .rtail2 {
+    /* max-width: 1400px; */
+  }
+  .rtail1 {
+    font-size: 16px;
+    padding: 0px;
+  }
+}
+.App {
+  overflow-x: hidden;
+}
+.mm12 {
+  max-width: 916px;
+  margin: auto;
+}
+
+@media(max-width:950px){
+  .dashboardmainarea{
+    margin-left: 0% !important;
+  }
+  body{
+    display: none;
+  }
+}
+html{
+  overflow-x: hidden;
+}
+.logoz2{
+  width: 115px;
+}

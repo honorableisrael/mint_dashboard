@@ -1,0 +1,1090 @@
+.MediPharmssistant {
+  color: #abbb16;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  padding: 2rem 1.5rem;
+  padding-bottom: 5rem;
+}
+
+.MediPharmssistant1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0rem 1.1rem 0.5rem;
+  display: flex;
+  align-items: center;
+  padding-right: 53px;
+  width: 100%;
+}
+.sidebar_item {
+  width: 200px;
+  margin: auto;
+  height: 39px;
+  display: flex;
+  align-items: center;
+}
+
+.activeadminsidelink,
+.MediPharmssistant1:hover {
+  background: #aabb163a;
+  color: #444444;
+}
+.MediPharmssistant1 .icontanier {
+  margin-right: 1rem;
+}
+.icontanier {
+  width: 40px;
+  text-align: center;
+}
+.sidebarcontainer {
+  flex: 0 0 22%;
+  max-width: 22%;
+  padding-right: 0px;
+  height: 100vh;
+  position: fixed;
+  width: 22%;
+  background: white;
+  z-index: 2;
+}
+.dashboardmainarea {
+  flex: 0 0 80%;
+  max-width: 80%;
+  margin-left: 21%;
+}
+.dashboardnav {
+  padding: 1rem;
+  width: 102%;
+  /* max-width: 1400px; */
+  position: fixed;
+  z-index: 2000;
+  background: white;
+}
+.noto {
+  margin-right: 2rem;
+}
+.search_on1 {
+  width: 60%;
+  margin: auto;
+  border: none;
+  background: #fcfcfc;
+  border-radius: 20rem;
+  padding-left: 1rem;
+}
+.dashboard_main_area {
+  background: #fcfcfc;
+  /* min-height: 700px; */
+  padding-top: 3rem;
+  padding: 2rem;
+  /* max-width: 1400px; */
+  min-height: 846px;
+}
+.dashboard_000 {
+  min-height: fit-content;
+}
+.cardsecond1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #666666;
+  min-height: 50px;
+}
+.card1 {
+  display: flex;
+  background: white;
+  min-width: 240px;
+  padding: 0.8rem 0.1rem;
+  box-shadow: 0px 21px 45px rgba(30, 66, 138, 0.1);
+  border-radius: 10px;
+  margin-right: 0rem;
+  max-width: 480px;
+  font-size: 12px;
+  margin-bottom: 2rem;
+  height: 70px;
+}
+.cardnumeb {
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 52px;
+  letter-spacing: 0.2px;
+  color: #333333;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+}
+.metricsz {
+  font-size: 11px;
+}
+.cardfirst {
+  padding: 0rem 0rem 0rem 1rem;
+  padding-right: 0.4rem;
+}
+.cardfirst svg {
+  box-shadow: 0px 21px 45px rgba(30, 66, 138, 0.1);
+}
+._main_area2 {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 0px;
+  padding-left: 0px;
+  gap: 10px;
+}
+.sidebarUpdate1 {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #333333;
+  text-align: center;
+  padding-left: 1rem;
+  padding-top: 0.7rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 2rem;
+  align-items: center;
+}
+.chartplacehoolder {
+  width: 100%;
+}
+.sidebarUpdate {
+  background: white;
+  padding: 1rem;
+  width: 100%;
+  border-radius: 10px;
+}
+.csi1 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  letter-spacing: 0.2px;
+  /* Black */
+  color: #333333;
+  padding-bottom: 1rem;
+}
+.card1:nth-child(4) {
+  margin-right: 0px !important;
+}
+.card12:nth-child(3) {
+  margin-right: 0px !important;
+}
+
+.jcenter {
+  justify-content: space-between;
+  /* margin-right: 1rem; */
+  width: 100%;
+}
+.Organizations1 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #333333;
+}
+@media (min-width: 1300px) {
+  ._main_area2 {
+    max-height: 185px;
+  }
+  .expand12 {
+    flex: 0 0 100%;
+    max-width: 99.966667%;
+  }
+  .min_23 {
+    min-height: 600px !important;
+  }
+}
+.expand12 {
+  max-height: 400px;
+}
+.pr0 {
+  padding-right: 0px !important;
+}
+@media (max-width: 1500px) {
+  .sidebarUpdate {
+    flex: 0 0 30%;
+    max-width: 30%;
+  }
+  .expand12 {
+    flex: 0 0 100%;
+    max-width: 99.966667%;
+  }
+  ._main_area2 {
+    padding-top: 1rem;
+  }
+  .sidetainer {
+    display: block !important;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-right: 0px;
+    height: 100vh;
+    position: fixed;
+    width: 94%;
+    background: white;
+    z-index: 2;
+  }
+}
+.sidebarUpdate1 {
+  border-bottom: 0.8px solid #ededed;
+  padding-bottom: 0.7rem;
+}
+.Amoxile1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.charthome {
+  background: white;
+  padding: 0rem;
+  border-radius: 10px;
+  padding-bottom: 1rem;
+}
+.thead-light {
+  background: #fcfcfc;
+  border: none !important;
+  font-size: 14px;
+}
+.table {
+  font-size: 12px;
+}
+.notifications_active {
+  position: relative;
+  left: 1rem;
+  bottom: 0.1rem;
+}
+@media (max-width: 1200px) {
+  .sidebarcontainer {
+    display: none;
+  }
+  .dashboardmainarea {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .dashboardnav1 {
+    display: none;
+  }
+  ._main_area2 {
+    flex-wrap: wrap;
+  }
+  .expand12 {
+    margin-top: 3rem;
+  }
+  .dashboardmainarea {
+    margin-left: 0px;
+  }
+  .MediPharmssistantiid {
+    overflow: auto !important;
+  }
+}
+
+@media (max-width: 768px) {
+  ._main_area2 {
+    padding-bottom: 2rem;
+  }
+  .sidebarUpdate {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .dashboardnav {
+    padding-top: 15px;
+  }
+  .mobileham {
+    position: relative;
+    top: 0.5rem;
+  }
+  .card1 {
+    flex: initial;
+  }
+  ._main_a2 {
+    justify-content: center;
+  }
+  .dashboard_000 {
+    padding-left: 0px;
+  }
+  .pl-4,
+  .px-4 {
+    padding-left: 0px !important;
+  }
+  .caxf {
+    width: 93%;
+  }
+  .padded-signin-wrapper2 {
+    padding: 0.7rem !important;
+  }
+  .expand12 {
+    padding: 0px;
+  }
+}
+
+.mobileham {
+  display: flex;
+  position: relative;
+  right: -2rem;
+  flex-direction: column;
+}
+.nav4a {
+  width: 100%;
+  justify-content: space-between;
+  padding-right: 15rem;
+}
+.ham1,
+.ham2 {
+  width: 29px;
+  display: inline;
+  height: 2px;
+  background: #000000;
+  margin-top: 0.4rem;
+}
+.ham3 {
+  width: 15px;
+  display: inline;
+  height: 2px;
+  background: #000000;
+  margin-top: 0.4rem;
+}
+@media (min-width: 1200px) {
+  .mobileham {
+    display: none;
+  }
+}
+.wrappert {
+  color: #666666;
+  font-size: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 2rem;
+}
+.wrappert span {
+  width: 50%;
+}
+.drugtile {
+  display: inline-block;
+  width: 10px;
+  max-width: 10px;
+  height: 10px;
+  margin-right: 0.2rem;
+  border-radius: 2px;
+}
+.drugtilecolor1 {
+  background: #59d9ac;
+}
+.drugtilecolor2 {
+  background: #f79463;
+}
+.drugtilecolor3 {
+  background: #afaf52;
+}
+.drugtilecolor4 {
+  background: #ff00b5;
+}
+
+.drug2,
+.drug1 {
+  width: 50%;
+  padding-left: 2rem;
+  display: block;
+}
+.pb-0 {
+  padding-bottom: 0px !important;
+}
+a {
+  color: inherit;
+}
+.pt-9 {
+  padding-top: 2rem;
+}
+.slect3 {
+  padding-right: 0.6rem;
+}
+.bluebtn {
+  width: fit-content;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #abbb16;
+  color: white;
+  border-radius: 5px;
+}
+.searchz {
+  width: 200px;
+}
+.pdt51 {
+  padding-top: 2rem;
+  margin-bottom: 3rem;
+}
+.pb-034 {
+  padding-top: 3rem;
+}
+.filter1 {
+  border: none;
+  margin-right: 1rem;
+  width: 110px;
+}
+.colreverse {
+  display: flex;
+  flex-direction: column-reverse;
+  position: absolute;
+  z-index: 4;
+  width: 130px;
+  z-index: 2000;
+}
+.reltv {
+  position: relative;
+  left: -7.3rem;
+}
+.table-responsive {
+  padding-bottom: 4rem;
+}
+.herad1 {
+  background: #666666;
+  border-radius: 10px 10px 0px 0px;
+  padding: 1rem;
+  height: 150px;
+}
+
+.staf45 {
+  text-align: center;
+  color: #333333 !important;
+  border-bottom: 1px solid #ededed;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+.img2 {
+  width: 147px;
+  height: 147px;
+  border-radius: 50%;
+  position: relative;
+  object-fit: scale-down;
+  bottom: 5rem;
+}
+.email1 {
+  font-size: 14px;
+}
+.nh0 {
+  height: 90vh !important;
+}
+.edituser {
+  color: #abbb16;
+  text-align: center;
+  padding-top: 0.5rem;
+}
+.statusf1 {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+.statusp2 svg {
+  margin-right: 0.2rem;
+}
+.detailsbody {
+  margin-right: 1rem;
+}
+.detailsbody {
+  margin-left: 2rem;
+}
+.hera1 {
+  height: 60px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  align-items: center;
+}
+
+.statsend1 {
+  flex: 0 0 70%;
+  max-width: 72%;
+}
+.divider2 {
+  border-bottom: 1px solid #ededed;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+}
+.sendmessage_ {
+  border: 1px solid white;
+  padding: 0.4rem;
+  border-radius: 5px;
+}
+.sendmessage_ svg {
+  margin-right: 0.3rem;
+}
+.details_title {
+  color: #333333;
+}
+.infowrap1 {
+  display: flex;
+  padding-left: 2rem;
+  padding-right: 3rem;
+  color: #333333;
+  justify-content: space-between;
+  font-size: 14px;
+  padding-bottom: 1rem;
+}
+.infowrap3 span {
+  display: inline-block;
+  overflow-x: hidden;
+}
+.infowrap3 {
+  width: 190px;
+}
+.infowrap2 {
+  width: 110px;
+}
+.table thead th {
+  border-top: 0px;
+  border-bottom: 0px;
+  font-weight: 400;
+}
+.dpf1 {
+  display: flex;
+  align-items: center;
+  padding-left: 6rem;
+}
+.dpf1:hover {
+  background: #aabb163a;
+  color: #abbb16;
+}
+.dpf1 svg {
+  margin-right: 1rem;
+  cursor: pointer;
+}
+.dpf {
+  border: none;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background: #fcfcfc;
+}
+.table td,
+.table th {
+  border-top: 0px;
+  font-weight: 400;
+}
+.thd {
+  display: flex;
+  align-items: flex-start;
+}
+.thd td {
+  font-weight: 400;
+  padding-top: 0px;
+}
+.thd .slect3 {
+  padding-top: 0.1rem;
+}
+.cardnumeb {
+  min-width: 120px;
+}
+
+.flext2 {
+  display: flex;
+}
+.titleheader_ {
+  padding: 1rem;
+  text-align: center;
+  background: #f1f7fa;
+}
+.padded-signin-wrapper2 {
+  padding: 2rem;
+}
+.ml23 {
+  margin-left: 2rem;
+}
+.mx8 {
+  padding-bottom: 3rem;
+  height: fit-content;
+  max-height: 100% !important;
+}
+.pl231 {
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}
+.admin_entry {
+  padding-left: 2rem;
+  color: #666666;
+}
+@media (min-width: 1800px) {
+  .dashboard_block {
+    display: block;
+  }
+}
+
+.th {
+  font-weight: 400 !important;
+}
+.mr_1 {
+  margin-right: 2rem;
+}
+.mr0p {
+  margin-right: 0px;
+}
+._main_a2 {
+  flex-wrap: nowrap !important;
+}
+@media (max-width: 817px) {
+  ._main_a2 {
+    flex-wrap: wrap !important;
+  }
+  .dashboard_main_area {
+    padding-right: 0rem;
+    margin: auto;
+  }
+  .sidetainer {
+    display: block !important;
+  }
+}
+@media (max-width: 517px) {
+  .card1 {
+    margin-right: 0px;
+  }
+  .dashboard_main_area {
+    margin-right: 2rem;
+  }
+  .sidebarUpdate1 {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .sidebarUpdate1 span {
+    margin-bottom: 1rem;
+  }
+  .loginformbody {
+    padding: 2rem 0rem;
+  }
+  .rdfrmlbl2,
+  .rdfrmlbl2right {
+    flex: 0 0 100%;
+    margin-left: 0px;
+  }
+  .lgwra2p {
+    background: none;
+  }
+}
+.Toastify__toast--default {
+  background: rgba(22, 21, 21, 0.644);
+}
+
+.Toastify__toast--success {
+  background: #081d16;
+}
+
+.btncls {
+  background: #abbb16;
+  padding: 0.5rem 1rem;
+  color: white;
+  border: 0px;
+  width: 150px;
+  border-radius: 5px;
+}
+.btncls1 {
+  background: white;
+  padding: 0.5rem 1rem;
+  color: #abbb16;
+  border: 2px solid #abbb16 !important;
+  border: 0px;
+  width: fit-content;
+  border-radius: 5px;
+  outline: none;
+}
+
+.iu5 {
+  width: 100%;
+}
+.mg0_ {
+  margin: 0px;
+}
+.Deletebtn {
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+.padt12 {
+  padding: 0px 32px;
+}
+.pointer1 {
+  cursor: pointer;
+}
+.upload__image-wrapper {
+  text-align: left;
+  padding-left: 2rem;
+}
+.skyblue2 {
+  border: none;
+  padding: 0.5rem;
+}
+.cle {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.pl89 {
+  padding-right: 2rem;
+  width: 98%;
+}
+.logout1 {
+  z-index: 8;
+}
+.MediPharmssistantiid {
+  overflow-y: scroll;
+  height: 80vh;
+  padding: 1rem 0rem;
+}
+.flext2 {
+  cursor: pointer;
+}
+.cnt {
+  font-size: 20px;
+  font-weight: 900;
+}
+.pd40 {
+  padding: 0px;
+}
+._mwhite {
+  background: white;
+  width: 96%;
+}
+._mwhite .card1 {
+  box-shadow: none;
+}
+.lstockt {
+  margin-top: 1rem;
+  color: #666666;
+}
+.ip1 {
+  cursor: pointer;
+}
+.textgrn {
+  color: rgb(21, 112, 21) !important;
+}
+.MediPharmssistant {
+  padding-bottom: 2rem;
+}
+
+.orgname2 {
+  padding-top: 1rem;
+}
+.Amoxile12 {
+  width: 105px;
+  text-overflow: ellipsis;
+}
+.padt1234 {
+  width: 100%;
+  padding: 0px;
+}
+.green2 {
+  color: #afaf52;
+}
+.centr31 {
+  text-align: center;
+  padding-top: 3rem;
+  position: relative;
+  left: 3rem;
+}
+.fil3 {
+  margin: 2rem;
+}
+.logoz2 {
+  height: fit-content;
+  object-fit: contain;
+}
+.dashboardnavbar {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-left: 0%;
+}
+.hm-0 {
+  min-height: auto !important;
+}
+.caxf {
+  min-height: 200px;
+  margin-bottom: 1rem;
+}
+.expax2 {
+  margin-top: 2rem;
+}
+.cbt,
+.cbt:hover {
+  background: rgb(233, 168, 47);
+  color: white;
+  border: 0px;
+}
+.form_waller {
+  padding-left: 1rem !important;
+}
+.bvnbt {
+  background: rgb(218, 167, 73) !important;
+  color: #fff;
+}
+.axs {
+  max-width: none;
+}
+.cardnu9 {
+  padding-top: 0px !important;
+}
+
+.ho3 {
+  height: 43px;
+  overflow: hidden;
+  font-size: 15px;
+  display: flex;
+  align-items: flex-end;
+}
+.orange_1 {
+  background: orange;
+  color: white;
+  font-weight: 700;
+  min-width: fit-content;
+}
+.sst_c1 {
+  font-size: 14px;
+}
+.ghh {
+  padding-right: 1rem;
+}
+.pr56 {
+  padding-right: 2rem;
+}
+.expand12344 {
+  max-height: fit-content;
+  height: fit-content;
+}
+
+.bold34 {
+  font-weight: 700;
+  padding-right: 0.5rem;
+  /* width: 20%; */
+}
+.halfgrid {
+  width: 50% !important;
+  display: flex;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+.halfgrid223 {
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.wd34 {
+  width: 98px;
+}
+
+
+.dashboard_000223 {
+  margin-top: 3.5rem;
+}
+.inv_1231 {
+}
+.top_area_design {
+  display: flex;
+  justify-content: space-between;
+}
+.fclogo1 {
+  width: 200px;
+  margin-bottom: 1rem;
+}
+
+.inv_1 {
+  font-size: 30px;
+  font-weight: 600;
+}
+.inv_01 {
+  font-weight: 700;
+  font-size: 24px;
+}
+.bldue1 {
+  padding-top: 1rem;
+  font-weight: 500;
+}
+.inv_date {
+  padding-top: 0.1rem;
+}
+.inv_a {
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
+}
+.tbstyle {
+  background: #444;
+  color: white;
+  padding: 0.5rem;
+}
+.tbstyle1 {
+  padding: 1rem;
+}
+.tbstyle1 tr td {
+  padding: 1rem;
+}
+.vbold {
+  font-weight: 900;
+}
+table.balance td {
+  text-align: right !important;
+}
+.printinvoice {
+  background: #f79463;
+  color: white;
+  padding: 0.2rem 1rem;
+  border: 0px;
+  border-radius: 0.2rem;
+  outline: none;
+}
+.block1 {
+  display: block;
+  width: 97%;
+  text-align: right;
+  padding-top: 1rem;
+}
+.company_account {
+  color: #444444;
+}
+.width-fit-content {
+  width: fit-content;
+}
+li {
+  padding: 0px !important;
+}
+.itemscenter2 {
+  justify-content: space-between;
+  align-items: center;
+}
+.navitem01 {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+.search_ {
+  outline: none;
+  border: 0px solid;
+  margin-left: 1rem;
+  background: transparent;
+}
+.navitem02 {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  font-size: 11px;
+}
+.greenbutton {
+  background: #27ae60;
+  border-radius: 30px;
+  color: white;
+  border: none;
+  padding: 0.5rem 1.7rem;
+  font-weight: 900;
+}
+.MediPharmssistant1:hover {
+  background: none;
+}
+.active_menu_item {
+  background: #1876f01f;
+  border-left: 5px solid #1875f0;
+}
+.navhover:hover {
+  background: #1876f01f;
+  border-left: 5px solid #1875f0;
+  cursor: pointer;
+}
+
+.dashboard_card_container {
+  background: #ffffff;
+  border: 1px solid #eef8fd;
+  border-radius: 2px;
+}
+.searchpayments {
+  border-bottom: 0.5px solid #78787857;
+  min-width: 200px;
+  padding-bottom: 0.1rem;
+}
+
+.select_custom {
+  border: 1px solid #dde0e3;
+  border-radius: 4.25px;
+  color: #7f8fa4 !important;
+}
+.top_container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+}
+.rating1 {
+  display: flex;
+}
+.rating-green {
+  width: 70%;
+  background: #27ae60;
+  height: 4px;
+}
+.rating-yellow {
+  width: 20%;
+  background: #fdc203;
+  height: 4px;
+}
+.custom_yellow {
+  color: #ebc315;
+}
+.custom_green {
+  color: #27ae60;
+}
+.custom_blue {
+  color: #1860ec;
+}
+.pagination-text {
+  font-size: 13px !important;
+}
+
+.pagecontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+  margin-bottom: 3rem;
+}
+.Reconcilled {
+  color: #27ae60;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #27ae60;
+  border-radius: 30px;
+}
+.pending {
+  color: #ebc315;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #ebc315;
+  border-radius: 30px;
+}
+.unreconcilled {
+  color: #cccfd4;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #cccfd4;
+  border-radius: 30px;
+}
+tr {
+  border-bottom: 1px solid #cccfd4;
+}
+
+.circletext {
+  background: #7f8fa4;
+  color: white;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.inlineblockitem {
+  display: inline-block;
+  margin-right: 1rem;
+}
+.ptop5{
+  padding-top: 1.55rem !important;
+}
+.datedata{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 2rem;
+  width: 85%;
+}

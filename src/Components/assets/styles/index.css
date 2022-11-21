@@ -1,0 +1,357 @@
+.loginformbody {
+  background: white;
+  padding: 4rem 2rem;
+  margin-top: 5rem;
+  box-shadow: 0px 1px 15px rgb(30 66 138);
+  border-radius: 20px;
+  padding-bottom: 0px;
+  max-width: 600px;
+}
+.lgwrap {
+  min-height: 100vh;
+  background-size: cover;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #666666;
+  margin: auto;
+  padding-bottom: 2rem;
+  /* background: url("../../../assets/Home1.png"); */
+  background-repeat: no-repeat;
+}
+.justify-center {
+  justify-content: center;
+  align-items: center;
+}
+.p {
+  font-family: Poppins;
+}
+.ft3 {
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: 0.2px;
+
+  color: #333333;
+}
+
+.ft1 {
+  font-size: 18px;
+  padding-bottom: 1rem;
+}
+.rdfrmlbl {
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.2px;
+  color: #666666;
+  font-weight: 400;
+}
+.padded-signin-wrapper {
+  text-align: left;
+  font-size: 14px;
+  padding-top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.forgotpassword a {
+  color: #abbb16;
+  font-weight: 300;
+}
+.forgotpassword {
+  text-align: left !important;
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.inputlabel {
+  width: 100%;
+  padding: 0.1rem 2rem;
+  margin-top: 0.2rem;
+}
+.loginbtdv {
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.loginbtdv input {
+  background: #abbb16;
+  padding: 0.5rem 1rem;
+  color: white;
+  border: 0px;
+  width: 150px;
+  border-radius: 5px;
+}
+.signuprgqt {
+  color: #838787;
+  font-size: 14px;
+  padding-top: 1rem;
+  font-weight: 400;
+}
+.signuprgqt1 {
+  color: #c4c4c4;
+  padding-top: 1.5rem;
+  font-weight: 300;
+}
+.signupwrapp {
+  background: #fafafa;
+  padding: 0px;
+  color: white;
+}
+.f_u1 {
+  font-weight: 300;
+  font-size: 14px;
+  color: #333333;
+}
+.inputlabel div {
+  padding: 0px;
+}
+.rdfrmlbl2 {
+  margin-right: 0.6rem;
+  flex: 0 0 47%;
+}
+.rdfrmlbl2right {
+  margin-left: 0.6rem;
+  flex: 0 0 48%;
+}
+.font-200 {
+  font-weight: 200;
+}
+.check_12 {
+  margin-right: 0.4rem;
+}
+::placeholder {
+  color: #c4c4c4 !important;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.lgwrap30 {
+  background: url("../../../assets/bg-box.png");
+  background-color: #0e0d0d;
+  min-height: 361px;
+  font-size: 30px;
+  line-height: 45px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+.xmc {
+  padding-top: 4rem;
+  display: block;
+}
+.signup8 {
+  position: relative;
+  max-width: 800px;
+  
+}
+.lgwra2p{
+  background: url("../../../assets/Agraina_LP.jpg");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+.staffonboarding_1 {
+  padding: 4rem;
+  background: #fafafa;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.staffonboarding_2 {
+  background: #ffffff;
+  box-shadow: 0px 21px 45px rgba(30, 66, 138, 0.1);
+  border-radius: 10px;
+  height: inherit;
+  /* max-height: 700px; */
+  max-width: 1400px;
+}
+.staffonboarding_3 {
+  padding-top: 3rem;
+  background: #ffffff;
+  box-shadow: 0px 21px 45px rgba(30, 66, 138, 0.1);
+  border-radius: 10px 0px 0px 10px;
+  min-height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.staffonboarding_4 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #333333;
+}
+.staffonboarding_5 {
+  text-align: center;
+  padding: 3rem 5rem;
+}
+.dr3 {
+  color: #333333;
+}
+.staffonboarding_6 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+.staffonboarding_6p {
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #666666;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.secondare {
+  padding-left: 2rem;
+}
+.secondare div {
+  padding-bottom: 2rem;
+}
+.detailsdf {
+  margin-right: 1.5rem;
+  width: 40px;
+  box-sizing: border-box;
+  height: 40px;
+  border: 2px solid #333333;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.activesidelink {
+  border: 2px solid #abbb16;
+  color: #abbb16;
+}
+.activeside_number {
+  color: #abbb16;
+}
+.areatitle {
+  display: flex;
+  align-items: center;
+}
+
+.wrpre2 {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  color: #c4c4c4;
+  padding-top: 1rem;
+}
+.solid34 {
+  border-bottom: 2px solid #c4c4c4;
+  width: 50%;
+  padding-bottom: 0.7rem;
+  cursor: pointer;
+}
+.activeborder {
+  border-bottom: 2px solid #abbb16;
+  color: #abbb16;
+}
+
+.label_pad {
+  padding: 0px;
+  padding-bottom: 1rem;
+}
+.forminput {
+  border: 1px solid rgba(208, 208, 208, 0.5) !important;
+  box-sizing: border-box;
+  margin-top: 0.4rem;
+  height: 50px;
+}
+.upload_image {
+  cursor: pointer;
+}
+.back1 {
+  text-align: left;
+  position: relative;
+  top: 2rem;
+}
+.pd2a {
+  display: flex;
+  width: 100%;
+  min-width: 400px;
+  justify-content: space-between;
+  padding: 2rem 0rem;
+  padding-bottom: 0px;
+  border: 1px solid rgba(208, 208, 208, 0.5);
+  flex-direction: column;
+  color: #666666;
+}
+.zd2a,.zd2a1{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-bottom: 2rem;
+}
+.zd2a{
+  padding-bottom: 2rem;
+}
+.zd2a1{
+  padding-top: 2rem;
+  border-top: 1px solid rgba(208, 208, 208, 0.5);
+}
+.assgn{
+  padding-bottom: 2rem;
+}
+.fsname{
+  font-weight: 600;
+  padding-top: .6rem;
+}
+.pd2a2{
+  border-bottom: 0px;
+  min-width: 170px;
+}
+.pd2a1{
+  border-top: 0px;
+}
+.image_uploaded1{
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+}
+.camera_alt{
+  position: relative;
+  top: 2rem;
+  right: 2rem;
+  z-index: 3;
+}
+.pdtop1{
+  padding-top: 1.5rem;
+}
+.dashboard_main_area{
+  width: 100%;
+}
+.signinbtn{
+  min-width: fit-content;
+}
+.logo2{
+  position: relative;
+  bottom: 1rem;
+}
+.text-righ {
+  display: flex !important;
+  justify-content: flex-end;
+  width: 100%;
+  padding-right: 2rem;
+}
+.text-righ span{
+  cursor: pointer;
+  position: relative;
+  bottom: 3rem;
+  right: 1rem;
+}
+.logout1 {
+  cursor: pointer;
+}
